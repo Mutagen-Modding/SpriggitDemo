@@ -1,0 +1,35 @@
+FormKey: 027EF6:Skyrim.esm
+MajorRecordFlagsRaw: 536870912
+EditorID: DweFurnitureHighChair02L
+SkyrimMajorRecordFlags:
+- 0x20000000
+ObjectBounds:
+  First: -58, -35, -9
+  Second: 39, 65, 98
+Name:
+  TargetLanguage: English
+  Value: Chair
+Model:
+  File: Furniture\Dwemer\DweFurnitureHighChair02.nif
+  Data: 0x02000000050000000000000011EB3B4C646473006A02F2EB1F5928F3646473006A02F2EB188FFC7C64647300262C333BD0C7543C646473006A02F2EB9CA31113646473006A02F2EB
+PNAM: 0x00000000
+Flags:
+- 0x40000000
+InteractionKeyword: 013794:Skyrim.esm
+WorkbenchData:
+  UsesSkill: 255
+Markers:
+- Enabled: True
+  DisabledEntryPoints:
+    Points:
+    - Front
+    - Right
+  EntryPoints:
+    Type:
+    - Sit
+    Points:
+    - Front
+    - Right
+    - Left
+MajorFlags:
+- ChildCanUse

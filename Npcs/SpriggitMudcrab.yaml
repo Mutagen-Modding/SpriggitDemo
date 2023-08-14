@@ -23,8 +23,8 @@ Configuration:
 Template: 02183E:Skyrim.esm
 Race: 109C7C:Skyrim.esm
 AIData:
-  Confidence: Average
-  EnergyLevel: 50
+  Confidence: Brave
+  EnergyLevel: 45
   Responsibility: NoCrime
 Class: 017008:Skyrim.esm
 PlayerSkills:

@@ -4,7 +4,7 @@ FormVersion: 40
 Configuration:
   Level:
     MutagenObjectType: NpcLevel
-    Level: 1
+    Level: 10
   SpeedMultiplier: 100
   DispositionBase: 35
   TemplateFlags:

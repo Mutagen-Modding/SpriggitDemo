@@ -5,7 +5,7 @@ ModKey: SpriggitTestMod.esp
 GameRelease: SkyrimSE
 ModHeader:
   Stats:
-    NumRecords: 4
+    NumRecords: 7
     NextFormID: 2049
   Author: ''
   MasterReferences:

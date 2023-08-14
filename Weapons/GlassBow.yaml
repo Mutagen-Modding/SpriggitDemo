@@ -31,7 +31,7 @@ BasicStats:
 Data:
   AnimationType: Bow
   Unused: 0x000000
-  Speed: 0.7
+  Speed: 0.8
   Reach: 1.1
   NumProjectiles: 1
   RangeMin: 500

@@ -1,6 +1,5 @@
 {
   "PackageName": "Spriggit.Yaml.Skyrim",
-  "Version": "0.38.0",
   "Release": "SkyrimSE",
-  "ModKey": "SpriggitTestMod.esp"
+  "Version": "0.38.0"
 }

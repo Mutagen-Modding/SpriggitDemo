@@ -1,12 +1,10 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Skyrim
-  Version: 0.0.0.1-zdev
+  Version: 0.38
 ModKey: SpriggitTestMod.esp
 GameRelease: SkyrimSE
 ModHeader:
-  Stats:
-    NumRecords: 7
-    NextFormID: 2049
   Author: ''
   MasterReferences:
   - Master: Skyrim.esm
+    FileSize: 0

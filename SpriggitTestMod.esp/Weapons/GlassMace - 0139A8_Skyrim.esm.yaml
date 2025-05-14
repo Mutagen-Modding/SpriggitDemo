@@ -43,6 +43,7 @@ Data:
   Skill: OneHanded
   Stagger: 1
 Critical:
+  Damage: 3
   Unused: 2756
   PercentMult: 1
   Flags:

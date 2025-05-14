@@ -1,6 +1,6 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Skyrim
-  Version: 0.38.0
+  Version: 0.38
 ModKey: SpriggitTestMod.esp
 GameRelease: SkyrimSE
 ModHeader:
@@ -8,3 +8,4 @@ ModHeader:
   MasterReferences:
   - Master: Skyrim.esm
     FileSize: 0
+  INCC: 0

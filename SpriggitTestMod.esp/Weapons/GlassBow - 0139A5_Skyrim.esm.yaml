@@ -32,7 +32,7 @@ Data:
   AnimationType: Bow
   Unused: 0x000000
   Speed: 0.8
-  Reach: 1.1
+  Reach: 1.07
   NumProjectiles: 1
   RangeMin: 500
   RangeMax: 2000
